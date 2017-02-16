@@ -45,7 +45,7 @@
             // 
             this.DetailTextBox.Location = new System.Drawing.Point(16, 40);
             this.DetailTextBox.Name = "DetailTextBox";
-            this.DetailTextBox.Size = new System.Drawing.Size(313, 20);
+            this.DetailTextBox.Size = new System.Drawing.Size(352, 20);
             this.DetailTextBox.TabIndex = 1;
             this.DetailTextBox.Text = "Exception Details";
             // 
@@ -53,7 +53,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(344, 84);
+            this.ClientSize = new System.Drawing.Size(380, 360);
             this.Controls.Add(this.DetailTextBox);
             this.Controls.Add(this.label1);
             this.Name = "DisplayException";
